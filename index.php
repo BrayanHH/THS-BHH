@@ -69,9 +69,11 @@ if (!empty($_SESSION['activa'])) {
                 <img src="Cliente/img/logoz.jpg" height="250" width="250" style="display: block; margin-top: auto; margin-left: auto; margin-right: auto ;">
             </div>
 
+
             <div class="col">
                 <div class="row" style="background-color: white; border: double;">
-                    <h1 style="text-align: center; ">AUTENTIFICACION</h1>
+                    <h1>Brayan Hernández Hernández</h1>
+                    <h1 style="text-align: center; ">AUTENTIFICACION </h1>
                     <form style=" padding-left: 50px; padding-right: 50px; text-align: center;" method="POST">
                         <div>
                             <?php
