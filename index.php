@@ -69,6 +69,12 @@ if (!empty($_SESSION['activa'])) {
                 <img src="Cliente/img/logoz.jpg" height="250" width="250" style="display: block; margin-top: auto; margin-left: auto; margin-right: auto ;">
             </div>
 
+            <div class="row">
+
+            <div class="col" style=" border: double; background-color: white; padding-top: 45px; padding-right: 50px;">
+                <img src="Cliente/img/logoz.jpg" height="250" width="250" style="display: block; margin-top: auto; margin-left: auto; margin-right: auto ;">
+            </div>
+
 
            <!-- <div class="col">
                 <div class="row" style="background-color: white; border: double;">
