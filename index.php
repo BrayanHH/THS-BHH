@@ -70,14 +70,14 @@ if (!empty($_SESSION['activa'])) {
             </div>
 
 
-            <div class="col">
+           <!-- <div class="col">
                 <div class="row" style="background-color: white; border: double;">
                     <h1>Brayan Hernández Hernández</h1>
                     <h1 style="text-align: center; ">AUTENTIFICACION </h1>
                     <form style=" padding-left: 50px; padding-right: 50px; text-align: center;" method="POST">
                         <div>
                             <?php
-                            echo isset($alert) ? $alert : ""
+                            //echo isset($alert) ? $alert : ""
                             ?>
                        </div>
                         <div class="mb-3">
@@ -98,7 +98,7 @@ if (!empty($_SESSION['activa'])) {
                 </div>
 
 
-            </div>
+            </div>-->
 
         </div>
 
