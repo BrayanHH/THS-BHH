@@ -78,7 +78,7 @@ if (!empty($_SESSION['activa'])) {
 
            <!-- <div class="col">
                 <div class="row" style="background-color: white; border: double;">
-                    <h1>Brayan Hernández Hernández</h1>
+                    <h1>Brayan Hernández Hernández, Chris estuvo aqui >:D </h1>
                     <h1 style="text-align: center; ">AUTENTIFICACION </h1>
                     <form style=" padding-left: 50px; padding-right: 50px; text-align: center;" method="POST">
                         <div>
